@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bomster93
 - 👀 I’m interested in dancing and eating good food.
 - 🌱 I’m currently learning about coding and software development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me is through email.
 
 <!---
 Bomster93/Bomster93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
