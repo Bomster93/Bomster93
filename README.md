@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bomster93
+- 👋 Hi, I’m April!
 - 👀 I’m interested in dancing and eating good food.
 - 🌱 I’m currently learning about coding and software development.
 - 💞️ I’m looking to collaborate on anything.
